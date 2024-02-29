@@ -5,3 +5,10 @@ ficheiro markdown
 este repositório é um teste.
 
 [como escrever markdown](https://www.google.com)
+
+
+|posição|número|
+|---|---|
+|estudantes|..|
+|---|---|
+|investigadores|...|
